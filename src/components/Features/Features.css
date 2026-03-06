@@ -1,0 +1,27 @@
+.features{
+  display:flex;
+  justify-content:space-between;
+  margin-top:0px;
+  padding:0 120px;
+  background: #F1FF66;
+}
+
+.feature{
+  width:200px;
+}
+
+.feature hr{
+  width:60px;
+  border:1px solid black;
+  margin-bottom:10px;
+}
+
+.feature p{
+  font-weight:600;
+  font-size:14px;
+}
+
+.feature span{
+  font-size:12px;
+  color:#333;
+}

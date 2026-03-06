@@ -1,0 +1,31 @@
+.navbar{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  padding:24px 120px;
+  background:#F1FF66;
+}
+
+.logo{
+  font-size:14px;
+  font-weight:600;
+  letter-spacing:1px;
+}
+
+.nav-links{
+  list-style:none;
+  display:flex;
+  gap:40px;
+  margin:0;
+  padding:0;
+}
+
+.nav-links li{
+  cursor:pointer;
+  font-size:14px;
+  font-weight:500;
+}
+
+.nav-links li:hover{
+  text-decoration:underline;
+}
