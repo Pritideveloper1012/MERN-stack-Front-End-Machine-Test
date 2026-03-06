@@ -21,7 +21,7 @@ If you are developing a production application, we recommend using TypeScript wi
 This project is a pixel-perfect implementation of the provided Figma design using ReactJS.
 
 ## Live Demo
-https://your-project.vercel.app
+https://mern-machine-test-ro80artai-priti-guptas-projects-99eb5c54.vercel.app/
 
 ## GitHub Repository
 https://github.com/yourusername/mern-machine-test
